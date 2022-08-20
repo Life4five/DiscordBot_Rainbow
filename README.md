@@ -1,4 +1,4 @@
 # DiscordBot_Rainbow
 Colorful roles for server members
 
-Just another simple bot. First experience, it took a week to dev.
+Just another simple bot. First experience, it took a week to read docs and dev
